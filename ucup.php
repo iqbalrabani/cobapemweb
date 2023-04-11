@@ -7,5 +7,7 @@
     echo "Fitur 1";
     
     echo "Dari Yusuf";
+
+    echo "Fitur 2";
 ?>
 
